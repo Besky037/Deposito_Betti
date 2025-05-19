@@ -1,0 +1,14 @@
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-19-2\ClassiEx\bin\Debug\net9.0\ClassiEx.exe
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-19-2\ClassiEx\bin\Debug\net9.0\ClassiEx.deps.json
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-19-2\ClassiEx\bin\Debug\net9.0\ClassiEx.runtimeconfig.json
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-19-2\ClassiEx\bin\Debug\net9.0\ClassiEx.dll
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-19-2\ClassiEx\bin\Debug\net9.0\ClassiEx.pdb
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-19-2\ClassiEx\obj\Debug\net9.0\ClassiEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-19-2\ClassiEx\obj\Debug\net9.0\ClassiEx.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-19-2\ClassiEx\obj\Debug\net9.0\ClassiEx.AssemblyInfo.cs
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-19-2\ClassiEx\obj\Debug\net9.0\ClassiEx.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-19-2\ClassiEx\obj\Debug\net9.0\ClassiEx.dll
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-19-2\ClassiEx\obj\Debug\net9.0\refint\ClassiEx.dll
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-19-2\ClassiEx\obj\Debug\net9.0\ClassiEx.pdb
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-19-2\ClassiEx\obj\Debug\net9.0\ClassiEx.genruntimeconfig.cache
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-19-2\ClassiEx\obj\Debug\net9.0\ref\ClassiEx.dll

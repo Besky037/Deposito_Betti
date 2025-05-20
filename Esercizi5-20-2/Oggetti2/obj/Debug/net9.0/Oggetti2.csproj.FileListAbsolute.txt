@@ -1,0 +1,14 @@
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-20-2\Oggetti2\bin\Debug\net9.0\Oggetti2.exe
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-20-2\Oggetti2\bin\Debug\net9.0\Oggetti2.deps.json
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-20-2\Oggetti2\bin\Debug\net9.0\Oggetti2.runtimeconfig.json
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-20-2\Oggetti2\bin\Debug\net9.0\Oggetti2.dll
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-20-2\Oggetti2\bin\Debug\net9.0\Oggetti2.pdb
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-20-2\Oggetti2\obj\Debug\net9.0\Oggetti2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-20-2\Oggetti2\obj\Debug\net9.0\Oggetti2.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-20-2\Oggetti2\obj\Debug\net9.0\Oggetti2.AssemblyInfo.cs
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-20-2\Oggetti2\obj\Debug\net9.0\Oggetti2.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-20-2\Oggetti2\obj\Debug\net9.0\Oggetti2.dll
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-20-2\Oggetti2\obj\Debug\net9.0\refint\Oggetti2.dll
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-20-2\Oggetti2\obj\Debug\net9.0\Oggetti2.pdb
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-20-2\Oggetti2\obj\Debug\net9.0\Oggetti2.genruntimeconfig.cache
+C:\Users\Leo\Desktop\Corso2025\Esercizi\Esercizi5-20-2\Oggetti2\obj\Debug\net9.0\ref\Oggetti2.dll

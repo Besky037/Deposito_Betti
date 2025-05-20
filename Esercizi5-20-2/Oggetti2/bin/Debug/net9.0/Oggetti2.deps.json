@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Oggetti2/1.0.0": {
+        "runtime": {
+          "Oggetti2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Oggetti2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
